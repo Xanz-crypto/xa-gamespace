@@ -17,8 +17,7 @@ jobs:
         with:
           gradle-version: 8.5
       - run: gradle assembleDebug --no-daemon
-        working-directory: XAGameSpace
       - uses: actions/upload-artifact@v4
         with:
           name: XAGameSpace-debug
-          path: XAGameSpace/app/build/outputs/apk/debug/*.apk
+          path: app/build/outputs/apk/debug/*.apk
