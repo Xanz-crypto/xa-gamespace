@@ -1,6 +1,6 @@
 {
   "latest": 12,
-  "min": 11,
+  "min": 12,
   "name": "1.2.0",
   "link": "https://github.com/Xanz-crypto/xa-gamespace/releases",
   "notes": "Perbaikan bug iklan dan peningkatan stabilitas."
