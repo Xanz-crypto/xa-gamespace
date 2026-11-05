@@ -1,7 +1,7 @@
 {
-  "latest": 11,
-  "min": 11,
-  "name": "1.1.0",
+  "latest": 12,
+  "min": 12,
+  "name": "1.2.0",
   "link": "https://github.com/Xanz-kripto/xa-gamespace/releases",
-  "notes": "Metode unlock baru..."
+  "notes": "Perbaikan bug iklan: iklan ke-2 dan ke-3 kini ditunggu sampai siap, progres paket 3 iklan tersimpan permanen sehingga tidak lagi terhitung ulang dari nol
 }
