@@ -3,5 +3,5 @@
   "min": 14,
   "name": "1.5.0",
   "link": "https://github.com/Xanz-crypto/xa-gamespace/releases",
-  "notes": "Versi 1.6.0: mode beranda 2 (baris game + tombol Play), latar video sendiri (1080p 60fps), pilihan latar, deteksi perangkat & driver, info perangkat, pendingin, filter layar, set resolusi, dan perbaikan panel."
+  "notes": "Versi 1.5.0: deteksi GPU & driver tanpa root (Adreno, Mali, Xclipse, PowerVR) dengan rekomendasi dan kode berbeda tiap driver di fitur AI. Perbaikan dan penyesuaian panel texture."
 }
