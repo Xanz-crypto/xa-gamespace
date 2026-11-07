@@ -1,7 +1,7 @@
 {
-  "latest": 16,
-  "min": 14,
-  "name": "1.6.0",
+  "latest": 17,
+  "min": 16,
+  "name": "1.7.0",
   "link": "https://github.com/Xanz-crypto/xa-gamespace/releases",
-  "notes": "Versi 1.6.0: mode beranda 2 (baris game + tombol Play), latar video sendiri (1080p 60fps), pilihan latar, deteksi perangkat & driver, info perangkat, pendingin, filter layar, set resolusi, dan perbaikan panel."
+  "notes": "Versi 1.7.0: memperbaiki bug craz dan memperstabilkan aplikasi
 }
