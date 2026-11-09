@@ -1,7 +1,7 @@
 {
-  "latest": 19,
-  "min": 14,
-  "name": "1.9.0",
+  "latest": 20,
+  "min": 20,
+  "name": "2.0.0",
   "link": "https://github.com/Xanz-crypto/xa-gamespace/releases",
-  "notes": "Versi 1.9.0: bisa dipakai tanpa Shizuku/root (fitur yang butuh akses diberi tanda), dan notifikasi fitur yang tidak jalan di HP kamu."
+  "notes": "Versi 2.0.0: bisa dipakai tanpa Shizuku/root (fitur yang butuh akses diberi tanda), dan notifikasi fitur yang tidak jalan di HP kamu."
 }
